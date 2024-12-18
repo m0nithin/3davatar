@@ -208,7 +208,7 @@ export const UI = () => {
           <div className="flex items-cente gap-2">
             <RandomizeButton />
             <ScreenshotButton />
-            <DownloadButton />
+            {/* <DownloadButton /> */}
           </div>
         </div>
         <div className="md:px-10 flex flex-col">
