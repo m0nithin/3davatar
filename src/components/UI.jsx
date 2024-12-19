@@ -193,7 +193,7 @@ export const UI = () => {
         }`}
       >
         <img
-          src="/images/logo.jpg"
+          src="/images/logo.png"
           className="w-40 animate-pulse"
         />
       </div>
@@ -203,7 +203,7 @@ export const UI = () => {
             className="pointer-events-auto"
             href="https://lessons.wawasensei.dev/courses/react-three-fiber"
           >
-            <img className="logo" src="/images/logo.jpg" />
+            <img className="logo" src="/images/logo.png" />
           </a>
           <div className="flex items-cente gap-2">
             <RandomizeButton />
